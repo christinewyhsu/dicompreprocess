@@ -11,13 +11,11 @@ DATA_DIR=data
 OUTPUT_DIR=data/output_data
 PLOTS_DIR=plots
 LOGS_DIR=logs
-TEST_LOGS_DIR=../tests/logs
 
 mkdir -p $DATA_DIR
 mkdir -p $OUTPUT_DIR
 mkdir -p $PLOTS_DIR
 mkdir -p $LOGS_DIR
-mkdir -p $TEST_LOGS_DIR
 
 # Enter your company name and download the DICOM data and contour files
 read -p 'Enter your company name: ' CO
