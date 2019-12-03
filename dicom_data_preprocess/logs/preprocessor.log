@@ -1,0 +1,221 @@
+INFO:root:Started running preprocessor for the following parameters: {'input_data_path': 'data/final_data', 'output_data_path': 'data/output_data', 'logs_path': 'logs', 'plots_path': 'plots', 'contour_type': 'i-contours', 'toggle_plot': True, 'mini_batch_size': 8}
+INFO:root:Reading link.csv file...
+DEBUG:root:[('SCD0000101', 'SC-HF-I-1'), ('SCD0000201', 'SC-HF-I-2'), ('SCD0000301', 'SC-HF-I-4'), ('SCD0000401', 'SC-HF-I-5'), ('SCD0000501', 'SC-HF-I-6')]
+INFO:root:Querying available dicome files in SCD0000101 corresponding to i-contours files in SC-HF-I-1...
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0048-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/48.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0059-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/59.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0068-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/68.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0079-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/79.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0088-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/88.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0099-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/99.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0108-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/108.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0119-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/119.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0128-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/128.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0139-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/139.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0148-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/148.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0159-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/159.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0168-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/168.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0179-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/179.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0188-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/188.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0199-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/199.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0208-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/208.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-1/i-contours/IM-0001-0219-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000101/219.dcm
+INFO:root:Querying available dicome files in SCD0000201 corresponding to i-contours files in SC-HF-I-2...
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0047-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/47.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0060-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/60.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0067-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/67.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0080-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/80.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0087-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/87.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0100-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/100.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0107-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/107.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0120-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/120.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0127-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/127.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0140-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/140.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0147-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/147.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0160-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/160.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0167-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/167.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0180-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/180.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0187-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/187.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0200-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/200.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0207-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/207.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-2/i-contours/IM-0001-0220-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000201/220.dcm
+INFO:root:Querying available dicome files in SCD0000301 corresponding to i-contours files in SC-HF-I-4...
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0007-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/7.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0020-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/20.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0027-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/27.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0040-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/40.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0047-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/47.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0060-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/60.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0067-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/67.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0080-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/80.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0087-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/87.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0100-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/100.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0107-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/107.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0120-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/120.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0127-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/127.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0140-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/140.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0147-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/147.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0160-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/160.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0167-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/167.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0180-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/180.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0187-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/187.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-4/i-contours/IM-0001-0200-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000301/200.dcm
+INFO:root:Querying available dicome files in SCD0000401 corresponding to i-contours files in SC-HF-I-5...
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0027-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/27.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0040-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/40.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0047-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/47.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0060-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/60.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0067-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/67.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0080-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/80.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0087-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/87.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0100-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/100.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0107-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/107.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0120-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/120.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0127-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/127.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0140-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/140.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0147-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/147.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0160-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/160.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0167-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/167.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0180-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/180.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0187-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/187.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-5/i-contours/IM-0001-0200-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000401/200.dcm
+INFO:root:Querying available dicome files in SCD0000501 corresponding to i-contours files in SC-HF-I-6...
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0009-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/9.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0019-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/19.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0029-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/29.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0039-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/39.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0049-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/49.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0059-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/59.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0069-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/69.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0079-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/79.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0089-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/89.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0099-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/99.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0109-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/109.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0119-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/119.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0129-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/129.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0139-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/139.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0149-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/149.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0159-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/159.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0169-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/169.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0179-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/179.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0189-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/189.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0199-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/199.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0209-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/209.dcm
+DEBUG:root:data/final_data/contourfiles/SC-HF-I-6/i-contours/IM-0001-0219-icontour-manual.txt is now linked with data/final_data/dicoms/SCD0000501/219.dcm
+DEBUG:root:Writing sample tuples into csv file...
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 48
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 59
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 68
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 79
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 88
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 99
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 108
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 119
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 128
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 139
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 148
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 159
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 168
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 179
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 188
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 199
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 208
+DEBUG:root:patient_id(SCD0000101), original_id(SC-HF-I-1): Loading dicom images and masks with sample id 219
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 47
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 60
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 67
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 80
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 87
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 100
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 107
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 120
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 127
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 140
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 147
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 160
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 167
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 180
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 187
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 200
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 207
+DEBUG:root:patient_id(SCD0000201), original_id(SC-HF-I-2): Loading dicom images and masks with sample id 220
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 7
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 20
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 27
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 40
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 47
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 60
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 67
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 80
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 87
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 100
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 107
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 120
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 127
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 140
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 147
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 160
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 167
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 180
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 187
+DEBUG:root:patient_id(SCD0000301), original_id(SC-HF-I-4): Loading dicom images and masks with sample id 200
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 27
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 40
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 47
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 60
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 67
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 80
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 87
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 100
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 107
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 120
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 127
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 140
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 147
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 160
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 167
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 180
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 187
+DEBUG:root:patient_id(SCD0000401), original_id(SC-HF-I-5): Loading dicom images and masks with sample id 200
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 9
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 19
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 29
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 39
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 49
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 59
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 69
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 79
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 89
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 99
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 109
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 119
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 129
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 139
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 149
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 159
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 169
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 179
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 189
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 199
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 209
+DEBUG:root:patient_id(SCD0000501), original_id(SC-HF-I-6): Loading dicom images and masks with sample id 219
+DEBUG:root:Finished loading all samples and now saving dicom_images.npy, mask_images.npy, and meta_images.npy to data/output_data
+DEBUG:root:Shuffling the 96 samples
+DEBUG:root:Partitioning the 1-minibatch of 8 samples
+DEBUG:root:Partitioning the 2-minibatch of 8 samples
+DEBUG:root:Partitioning the 3-minibatch of 8 samples
+DEBUG:root:Partitioning the 4-minibatch of 8 samples
+DEBUG:root:Partitioning the 5-minibatch of 8 samples
+DEBUG:root:Partitioning the 6-minibatch of 8 samples
+DEBUG:root:Partitioning the 7-minibatch of 8 samples
+DEBUG:root:Partitioning the 8-minibatch of 8 samples
+DEBUG:root:Partitioning the 9-minibatch of 8 samples
+DEBUG:root:Partitioning the 10-minibatch of 8 samples
+DEBUG:root:Partitioning the 11-minibatch of 8 samples
+DEBUG:root:Partitioning the 12-minibatch of 8 samples
+DEBUG:root:Finished shuffling and partitioning the single batch into 12 minibatches. Now saving shuffled_minibatch_dataset.npy
+DEBUG:root:Plotting the overall view of all (dicom, mask) samples...
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=18.0 to DejaVu Sans ('/anaconda3/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:root:Extracting and plotting the first minibatch to validate DataLoader against the previous plot from DataReader...
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/anaconda3/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+INFO:root:Finished running preprocessor...
