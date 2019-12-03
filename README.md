@@ -31,7 +31,7 @@ After the <code>reader</code> module creates the single batchset of dicom images
 
 No updates were made to the <code>reader</code> module in order for the <code>loader</code> module to shuffle and partition the single batchset into a list of minibatches with <code>mini_batch_size</code>. However for the future, if we were to accomodate evaluation of both types of contours (i-contours, o-contours) or perhaps n number of contour types at the same time, the <code>reader</code> module or the <code>preprocessor.py</code> wrapper will have to be tweaked.
 
-Unit tests were created and executed to test the <code>andom_mini_batches</code> method in the <code>loader</code> module. To evaluate the integration of the <code>reader</code> and <code>loader</code> modules, I designed the *Dicom Data Preprocessing* block of the pipeline to cache the output of the following (in case for further debugging/validation)
+Unit tests were created and executed to test the <code>random_mini_batches</code> method in the <code>loader</code> module. To evaluate the integration of the <code>reader</code> and <code>loader</code> modules, I designed the *Dicom Data Preprocessing* block of the pipeline to cache the output of the following (in case for further debugging/validation)
 <ol>
 <li> (Not shuffled/not partitioned) single batchset of dicom images, masks, metadata from <code>reader</code> module</li>
 <li> Shuffled and partitioned batchset of minibatches of <code>mini_batch_size</code> from <code>loader</code> module</li>
