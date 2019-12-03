@@ -1,0 +1,9 @@
+contour_filename,dicom_filename
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0048-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/48.dcm
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0059-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/59.dcm
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0068-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/68.dcm
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0079-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/79.dcm
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0088-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/88.dcm
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0099-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/99.dcm
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0108-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/108.dcm
+tests/data/sample-batchset/contourfiles/SC-HF-I-1/i-contours/IM-0001-0119-icontour-manual.txt,tests/data/sample-batchset/dicoms/SCD0000101/119.dcm
