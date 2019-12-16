@@ -73,7 +73,7 @@ class DataReader(object):
         link_tuples = self._read_link(self.link_filepath)
         self.sample_tuples = self._assemble_link(link_tuples)
 
-    def _read_link(self, filename):
+    def _read_link(filename):
         """
         A method that reads the input csv file that links up the appropriate dicoms and contour files
 
